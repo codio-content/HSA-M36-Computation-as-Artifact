@@ -1,0 +1,1101 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-986608604",
+  "source": {
+   "name": "OS Install",
+   "showName": true,
+   "instructions": "You are installing Windows operating system on your computer.  You don't have an original install disk so you use one from a friend.  You use the activation key that came with your copy of Windows.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "9382836b-dc47-1aa6-5149-695b5c25fd80",
+     "correct": true,
+     "answer": "Legal"
+    },
+    {
+     "_id": "e95c4e3f-38a0-0001-15cc-e144b535e594",
+     "correct": false,
+     "answer": "Illegal"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3646634723",
+  "source": {
+   "name": "Music Download",
+   "showName": true,
+   "instructions": "You are making a video for a class project and want to add sound.  You download music from creativecommons.org and provide attribution in your video.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "e7e071a0-81d2-bd36-a33c-bfe6665559bc",
+     "correct": true,
+     "answer": "Legal"
+    },
+    {
+     "_id": "b2d6a363-aac7-9482-ad9c-69083ecd71ae",
+     "correct": false,
+     "answer": "Illegal"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1134199524",
+  "source": {
+   "name": "Video Games",
+   "showName": true,
+   "instructions": "I wanted a \"new\" retro gaming system but the stores were all sold out.  Being innovative and knowing a bit about Computer Science, I went to my local Maker Space and 3D printed a case for a Raspberry PI and installed emulation software.  I then downloaded old games from the Internet and am now able to play all of the best video games from the 80s and 90s!",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "98624dc4-bc22-d5ff-bb81-fbe5c7ae2d5a",
+     "correct": false,
+     "answer": "Legal"
+    },
+    {
+     "_id": "11f7a509-819d-bd92-615b-8fe972546ffb",
+     "correct": true,
+     "answer": "Illegal"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4229572251",
+  "source": {
+   "name": "Open Source Software",
+   "showName": true,
+   "instructions": "In your spare time, you contribute to open source software projects.  These software products are free to download though there is an option to donate when you download.  Someone packages several useful open source projects onto on install disk, including some that you've worked on, and charges for the package.  You and the other software developers don't receive any of the money.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "a0395365-55cd-4900-664e-66a35a163170",
+     "correct": true,
+     "answer": "Legal"
+    },
+    {
+     "_id": "db75cd57-e6db-41f1-6dc9-e863547fcf2a",
+     "correct": false,
+     "answer": "Illegal"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4106542426",
+  "source": {
+   "name": "Ethical5",
+   "showName": false,
+   "instructions": "Your English teacher assigns reading from The Adventures of Huckleberry Finn.  Since Mark Twain died in 1910, his works are not in the public domain.  Rather than checking out books, your teacher sends you a link to a PDF of the book.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "43125359-ba03-0ee1-a9db-5a1e0723c960",
+     "correct": true,
+     "answer": "Legal"
+    },
+    {
+     "_id": "05b50689-7d6b-a006-0078-2d80f1fade7e",
+     "correct": false,
+     "answer": "Illegal"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1094309204",
+  "source": {
+   "name": "Divide1",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "The term <<<Digital Immigrant>>> refers to people who began using technology later in life.",
+   "tokens": {
+    "blank": [
+     "Digital Immigrant"
+    ],
+    "text": [
+     "The term ",
+     0,
+     " refers to people who began using technology later in life."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1802491778",
+  "source": {
+   "name": "Divide2",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "While Digital Natives have used technology for most of their lives, this use of technology does not guarantee universal <<<access>>> to technology.",
+   "tokens": {
+    "blank": [
+     "access"
+    ],
+    "text": [
+     "While Digital Natives have used technology for most of their lives, this use of technology does not guarantee universal ",
+     0,
+     " to technology."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2545518735",
+  "source": {
+   "name": "Divide3",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "Projects like Loon are designed to provide <<<Internet>>> access to remote places where infrastructure is too difficult or expensive to install.",
+   "tokens": {
+    "blank": [
+     "Internet"
+    ],
+    "text": [
+     "Projects like Loon are designed to provide ",
+     0,
+     " access to remote places where infrastructure is too difficult or expensive to install."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-813280206",
+  "source": {
+   "name": "Divide4",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "The digital divide refers to the gap between people with and without access to technology.  More schools are providing laptops to students to minimize this effect.  Programs like this are known as <<<1:1>>> laptop programs.",
+   "tokens": {
+    "blank": [
+     "1:1"
+    ],
+    "text": [
+     "The digital divide refers to the gap between people with and without access to technology.  More schools are providing laptops to students to minimize this effect.  Programs like this are known as ",
+     0,
+     " laptop programs."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3064118032",
+  "source": {
+   "name": "Protocol1",
+   "showName": false,
+   "instructions": "A protocol is an agreed upon way of sending information.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "cb1f1811-7d68-5a38-8ba3-3d261aa4f613",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "99b68c7c-934a-6a5c-704e-e80c0dd908fd",
+     "correct": false,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2318904864",
+  "source": {
+   "name": "Protocol2",
+   "showName": false,
+   "instructions": "Web traffic uses which protocol?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "a0a792e6-699d-92c9-892a-2bf558605e19",
+     "correct": false,
+     "answer": "FTP"
+    },
+    {
+     "_id": "a083e2f4-4676-8e0d-3f6f-a99812735c2e",
+     "correct": true,
+     "answer": "HTTP"
+    },
+    {
+     "_id": "25a106aa-03dc-0c5e-3e31-d29d7b000423",
+     "correct": false,
+     "answer": "SMTP"
+    },
+    {
+     "_id": "3883b242-9235-c52c-320f-068d8be67d01",
+     "correct": false,
+     "answer": "Gopher"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1520950296",
+  "source": {
+   "name": "Protocol3",
+   "showName": false,
+   "instructions": "Post Office Protocol (POP) is used for which type of digital communication?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "76ba1229-1f1e-eb16-a165-983ec5b9f677",
+     "correct": false,
+     "answer": "Text Messaging"
+    },
+    {
+     "_id": "f99a0fcb-2b28-8084-5a9d-a261a3cf735f",
+     "correct": false,
+     "answer": "Instant Messages"
+    },
+    {
+     "_id": "f7eae04e-568c-3cce-26e5-185fc9bbccd4",
+     "correct": true,
+     "answer": "E-mail"
+    },
+    {
+     "_id": "cc454f7f-0941-6acf-bcc0-ef91bba61131",
+     "correct": false,
+     "answer": "Internet Relay Chat"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-805695941",
+  "source": {
+   "name": "Protocol4",
+   "showName": false,
+   "instructions": "As an application developer, you have to code the whole protocol stack to send messages across the Internet.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "032d7fb4-3189-b41f-3faa-fee905f24fd6",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "6f5bc0ee-1beb-9e02-11c7-f62b8342a4f7",
+     "correct": true,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-289858407",
+  "source": {
+   "name": "Protocol5",
+   "showName": false,
+   "instructions": "Often, developers will give public access to their data, services, or other tools.  These public-facing tools have documentation for how to use the given tools.  This is known as:",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "a678a864-62aa-2cb5-e084-df02e3bb5d91",
+     "correct": false,
+     "answer": "Internet Message Access Protocol (IMAP)"
+    },
+    {
+     "_id": "ed93b526-3475-34d0-b926-9265e8f4af29",
+     "correct": true,
+     "answer": "Application Programming Interface (API)"
+    },
+    {
+     "_id": "961f0b81-f648-3987-825e-7bd7eb7b6f30",
+     "correct": false,
+     "answer": "Universal Serial Bus (USB)"
+    },
+    {
+     "_id": "85006b4f-2b58-d0a0-6ede-5e33b64ab174",
+     "correct": false,
+     "answer": "Dynamic Host Configuration Protocol (DHCP)"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3576830950",
+  "source": {
+   "name": "Security1",
+   "showName": false,
+   "instructions": "A newspaper sets up a Pretty Good Privacy (PGP) email system to allow for anonymous tips to be sent through encrypted channels.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "3828ac6a-1794-0d85-ceaf-8f6fce35fab0",
+     "correct": false,
+     "answer": "Security"
+    },
+    {
+     "_id": "2feec2ad-53c0-a1cb-3680-0fcdabdcb4d6",
+     "correct": true,
+     "answer": "Privacy"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4213054407",
+  "source": {
+   "name": "Security2",
+   "showName": false,
+   "instructions": "A flaw in HTTPS protocols known as Heartbleed is discovered by government agencies.  This flaw is used to gain access to private communications.  Eventually hackers also discover the flaw enabling access to passwords and other sensitive information.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "6d76cce4-f317-d2c1-456b-841e8dcff2cb",
+     "correct": true,
+     "answer": "Security"
+    },
+    {
+     "_id": "5ef00bda-bad4-fcac-096f-c5e7bcce8b4f",
+     "correct": false,
+     "answer": "Privacy"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2856737968",
+  "source": {
+   "name": "Security3",
+   "showName": false,
+   "instructions": "Apple iMessages use end-to-end encryption which means that the message is encrypted from the moment it leaves your phone until it reaches its destination.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "346676a4-27d4-5ed8-4b01-367562f8b157",
+     "correct": false,
+     "answer": "Security"
+    },
+    {
+     "_id": "7a87469c-ab25-950a-4007-314e863599e4",
+     "correct": true,
+     "answer": "Privacy"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1906736068",
+  "source": {
+   "name": "Security4",
+   "showName": false,
+   "instructions": "The FAA requires all people owning an unmanned drone weighing over .55 pounds to register.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "740e92ee-4593-4658-96d9-902534eb3be1",
+     "correct": true,
+     "answer": "Security"
+    },
+    {
+     "_id": "c7538ff8-a70c-9984-184e-d68a8543fa53",
+     "correct": false,
+     "answer": "Privacy"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4204409751",
+  "source": {
+   "name": "Security5",
+   "showName": false,
+   "instructions": "Services like The Onion Router (TOR) obfuscate the ip address of their users by routing them around the world through proxy services. ",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "7cf63b11-fa3d-2000-981c-47050dfd52ae",
+     "correct": false,
+     "answer": "Security"
+    },
+    {
+     "_id": "2ad1de46-6145-e74c-e7a7-0473ed82c0af",
+     "correct": true,
+     "answer": "Privacy"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4095902123",
+  "source": {
+   "name": "Security6",
+   "showName": false,
+   "instructions": "Crypto currency like BitCoin allows for the transfer of funds without any paper record of who paid, to whom, or what the service was.  ",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "5f0a9533-ad75-9956-919e-b4bd98e3bb70",
+     "correct": false,
+     "answer": "Security"
+    },
+    {
+     "_id": "4b3a7d8d-368b-867c-c672-96ca3164fac8",
+     "correct": true,
+     "answer": "Privacy"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3031843288",
+  "source": {
+   "name": "CIA1",
+   "showName": false,
+   "instructions": "A server must be taken offline for one hour a week to do software updates and maintenance.  This work is done over night.  Which of the CIA principles does this affect?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "f3640641-5f2b-2074-4b30-134d89e777cb",
+     "correct": false,
+     "answer": "Confidentiality"
+    },
+    {
+     "_id": "66093043-2941-bff2-8988-c40c1cf3d48b",
+     "correct": false,
+     "answer": "Integrity"
+    },
+    {
+     "_id": "fcc2ff8b-7bc4-cb74-b831-866ad5f01f92",
+     "correct": true,
+     "answer": "Availability"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4067344613",
+  "source": {
+   "name": "CIA2",
+   "showName": false,
+   "instructions": "Malware is installed on a hardware router.  The software saves a copy of all unencrypted data that travels across the router.  Which principle of the CIA triad is affected by this?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "e68b9c10-ca3c-0797-6e13-a9201553855d",
+     "correct": true,
+     "answer": "Confidentiality"
+    },
+    {
+     "_id": "f14fb39d-0521-9c6a-ec5a-85861d56a87a",
+     "correct": false,
+     "answer": "Integrity"
+    },
+    {
+     "_id": "2b34fe3d-43b8-663c-fc80-361a5a253385",
+     "correct": false,
+     "answer": "Availability "
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4010718085",
+  "source": {
+   "name": "CIA3",
+   "showName": false,
+   "instructions": "To prevent unauthorized access, two-factor authentication is used to log into a web site.  In addition to your username and password, a text message is sent to your phone with a security code that must be entered.  Which of the CIA Triad is affected by this policy?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "4c4fb1a6-aea9-3ecd-d83d-f8df8bd5d308",
+     "correct": true,
+     "answer": "Confidentiality"
+    },
+    {
+     "_id": "8f20a49e-cadb-f25b-aebe-f2cca51e50f2",
+     "correct": false,
+     "answer": "Integrity"
+    },
+    {
+     "_id": "1d922c02-5a8c-fbf9-a5cc-1a30d9f4c9a3",
+     "correct": false,
+     "answer": "Availability"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4147737029",
+  "source": {
+   "name": "CIA4",
+   "showName": false,
+   "instructions": "On the Internet, the DNS links the physical IP addresses to the domain names (like www.codio.com) so we don't have to use the actual IP addresses.  To prevent DNS poisoning, the first time your computer visits a site, it checks with multiple DNS services to verify the IP - URL connection.  Which of the CIA triad is affected by this policy?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "6518c87a-6465-0f00-e2f8-5e8f17b88c41",
+     "correct": false,
+     "answer": "Confidentiality"
+    },
+    {
+     "_id": "0fb6c935-f4e7-e4d0-31d8-f8547713746c",
+     "correct": true,
+     "answer": "Integrity"
+    },
+    {
+     "_id": "ada76386-135e-3c04-9c92-fb05b1b2d899",
+     "correct": false,
+     "answer": "Availability"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2377857147",
+  "source": {
+   "name": "CIA5",
+   "showName": false,
+   "instructions": "Data is backed up nightly to prevent loss.  The backups are stored in an off-site facility in case of theft or fire.  Which of the CIA triad is affected by this policy?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "a253b010-327f-820e-b2f2-90ac583dcb1a",
+     "correct": false,
+     "answer": "Confidentiality"
+    },
+    {
+     "_id": "b54c5412-f26d-2e02-ede5-9cc73fd47b33",
+     "correct": false,
+     "answer": "Integrity"
+    },
+    {
+     "_id": "e1a73223-6d03-d589-8c7b-096c4230a910",
+     "correct": true,
+     "answer": "Availability"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2139620311",
+  "source": {
+   "name": "Cipher1",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "In a Caesar Cipher, there are only <<<25>>> different possible keys, not including the key where every letter maps to itself (A -> A).  This makes it easy to check every possible key.",
+   "tokens": {
+    "blank": [
+     "25"
+    ],
+    "text": [
+     "In a Caesar Cipher, there are only ",
+     0,
+     " different possible keys, not including the key where every letter maps to itself (A -> A).  This makes it easy to check every possible key."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-567524064",
+  "source": {
+   "name": "Cipher2",
+   "showName": false,
+   "instructions": "Frequency analysis is a tool used by cryptographers to break codes like the Caesar Cipher.  How does it work?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "ff99181c-d4b0-60e7-d4eb-9fb412ef23b0",
+     "correct": false,
+     "answer": "All the messages from a user are recorded and patterns are determined."
+    },
+    {
+     "_id": "eb79bcaa-fbc8-05e0-964d-0caf5fdc32a8",
+     "correct": true,
+     "answer": "The letters in a message are counted and compared to how often letters occur normally."
+    },
+    {
+     "_id": "27f954e3-d62d-3cc3-eeb4-ad1144cd6b5b",
+     "correct": false,
+     "answer": "Letters are counted and to determine a secondary, hidden message."
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2384950859",
+  "source": {
+   "name": "Cipher3",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "Frequency Analysis works in a Caesar Cipher because every letter is shifted by the same key.  This means that if the first A -> D then every A will map to a D.  The <<<Vigenere>>> cipher uses a different key for every letter, negating this flaw.",
+   "tokens": {
+    "blank": [
+     "Vigenere"
+    ],
+    "text": [
+     "Frequency Analysis works in a Caesar Cipher because every letter is shifted by the same key.  This means that if the first A -> D then every A will map to a D.  The ",
+     0,
+     " cipher uses a different key for every letter, negating this flaw."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1226323333",
+  "source": {
+   "name": "Cipher4",
+   "showName": false,
+   "instructions": "A substitution cipher changes every letter to a different letter based on a new, jumbled alphabet.  ",
+   "points": "2",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "5536dd74-e714-332e-b1ca-3ceb5f0494e9",
+     "correct": true,
+     "answer": "This is more secure than Caesar Cipher because finding one letter does not give the key to all the other letters."
+    },
+    {
+     "_id": "6e8d7a59-d2f2-948b-5330-63933e96bdca",
+     "correct": false,
+     "answer": "This method is not susceptible to frequency analysis"
+    },
+    {
+     "_id": "c771cacc-97de-2dfb-222a-99c53c7e0e51",
+     "correct": true,
+     "answer": "This method is strong because there are 26! (26 * 25 * 24 * ... * 2 * 1) different possible shuffled alphabets that could be the key."
+    },
+    {
+     "_id": "7267bf76-c67b-050e-b43f-f45670f78367",
+     "correct": false,
+     "answer": "This method shifts mappings, meaning that if A -> D one time, it might map to a different letter later in the message."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1888434330",
+  "source": {
+   "name": "Networks1",
+   "showName": false,
+   "instructions": "A network with several computers networked with a centralized piece of hardware is known as which type of topology?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "49537fa8-1850-3cdc-f82d-41bbfce974cd",
+     "correct": false,
+     "answer": "Bus"
+    },
+    {
+     "_id": "3738ecb8-b8ef-1855-c276-f4039e3bdd31",
+     "correct": false,
+     "answer": "Ring"
+    },
+    {
+     "_id": "e7ba37ca-3c0e-23da-4d85-c7376a099f16",
+     "correct": false,
+     "answer": "Mesh"
+    },
+    {
+     "_id": "ba0752af-f388-47a5-ad6d-eb48f87c6ecc",
+     "correct": true,
+     "answer": "Star"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4231928582",
+  "source": {
+   "name": "Network2",
+   "showName": false,
+   "instructions": "In graph theory, a person, place, or thing is represented by a point.  This point is known as a(n)",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "3c46524e-5da5-4ca1-32ee-080f904f4890",
+     "correct": false,
+     "answer": "Edge"
+    },
+    {
+     "_id": "8f3db93a-572b-12dd-0733-c6f1c4075bfa",
+     "correct": true,
+     "answer": "Node"
+    },
+    {
+     "_id": "3a512814-6d36-112d-39e6-f8febb273b8c",
+     "correct": false,
+     "answer": "Tree"
+    },
+    {
+     "_id": "a776409d-be67-37e0-e3fa-8d8781a0dcd0",
+     "correct": false,
+     "answer": "Dot"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2038116598",
+  "source": {
+   "name": "Networks3",
+   "showName": false,
+   "instructions": "When two things are connected on a graph, a line is drawn.  This line is known as a(n)",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "8ca0dbf4-4c19-ee9c-1351-66183bbbfd5b",
+     "correct": true,
+     "answer": "Edge"
+    },
+    {
+     "_id": "0cdda0fd-c2c9-aaa8-96a3-5e16fe87963d",
+     "correct": false,
+     "answer": "Node"
+    },
+    {
+     "_id": "857beeb8-823b-f433-8b0e-0d238f0eeeee",
+     "correct": false,
+     "answer": "Tree"
+    },
+    {
+     "_id": "ff56a28a-3f5a-8abe-f54c-de63ca315aca",
+     "correct": false,
+     "answer": "Connection"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3398818918",
+  "source": {
+   "name": "Networks4",
+   "showName": false,
+   "instructions": "The routing of data across a network is guaranteed to be the shortest and most efficient.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "a157610b-cf1a-5eb8-4f7d-c951865edb45",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "a77135ef-2758-9f7e-47f3-602ab00d4d52",
+     "correct": true,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3464668477",
+  "source": {
+   "name": "Networks5",
+   "showName": false,
+   "instructions": "Which of the following are examples of networking hardware?",
+   "points": "3",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "3465d02a-a815-c5cf-ecb5-e4ece9f6a2ff",
+     "correct": true,
+     "answer": "Router"
+    },
+    {
+     "_id": "ab9eeb25-e635-ccb9-a196-f61093f14505",
+     "correct": false,
+     "answer": "Wifi"
+    },
+    {
+     "_id": "244d5bce-3f64-98b8-80ad-7b0b2a4362bb",
+     "correct": false,
+     "answer": "TCP/IP"
+    },
+    {
+     "_id": "91ba6178-28e7-7d45-e07c-df4702e063cb",
+     "correct": true,
+     "answer": "Modem"
+    },
+    {
+     "_id": "aa6df3d3-d73d-c672-a44b-fa19914566d9",
+     "correct": true,
+     "answer": "Switch"
+    },
+    {
+     "_id": "421925b5-417d-dbba-6011-14fe4cccfad9",
+     "correct": true,
+     "answer": "Hub"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1132367195",
+  "source": {
+   "name": "Security1",
+   "showName": false,
+   "instructions": "Which of the following are examples of biometric security?",
+   "points": "3",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "b04c739a-6902-ef6a-cffb-bf46146f4d96",
+     "correct": true,
+     "answer": "Fingerprint scanner"
+    },
+    {
+     "_id": "b0ee4b85-2aff-3bf3-706c-4c0ba1dd97d9",
+     "correct": true,
+     "answer": "Voice analysis"
+    },
+    {
+     "_id": "c404eaa0-4993-c025-cce1-30cacf0dbf01",
+     "correct": false,
+     "answer": "Password"
+    },
+    {
+     "_id": "c8e2ce12-cec9-8872-98e0-ebfff3e6eca2",
+     "correct": true,
+     "answer": "Retinal Scanner "
+    },
+    {
+     "_id": "fd1c3c29-d7a7-8bce-5165-a2fdf9b327de",
+     "correct": false,
+     "answer": "RFID Scanner"
+    },
+    {
+     "_id": "97f92087-0678-fcc7-6688-f75db9e02739",
+     "correct": false,
+     "answer": "Crash barriers"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-991670038",
+  "source": {
+   "name": "Security2",
+   "showName": false,
+   "instructions": "Social Engineering is:",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "7454cb3c-f9b4-9123-5d63-a7a407994da0",
+     "correct": false,
+     "answer": "Creating a false persona to gain access to a facility "
+    },
+    {
+     "_id": "b9038ea2-7e77-84a2-a2e8-865846a014ee",
+     "correct": false,
+     "answer": "Creating a program that guesses passwords based on things it is known that people like."
+    },
+    {
+     "_id": "c0a71f15-b380-9d85-8bad-e5d74ab23301",
+     "correct": true,
+     "answer": "Creating a situation where someone gives up their password or grants you access because they believe you to be authentic."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2654987466",
+  "source": {
+   "name": "Security3",
+   "showName": false,
+   "instructions": "Which site is most important to protect since it could grant access to all of your other sites?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "832f4aab-880c-1921-0467-6a5ae82e5183",
+     "correct": false,
+     "answer": "Banking Site"
+    },
+    {
+     "_id": "08a07d50-a874-38e2-51b0-5ba6ffed8793",
+     "correct": false,
+     "answer": "Any site - you should share the same password for all sites."
+    },
+    {
+     "_id": "05fc790f-fbaf-d7f9-ee87-eee5b279163b",
+     "correct": false,
+     "answer": "Internet Service Provider Site"
+    },
+    {
+     "_id": "aed7414f-52df-03b4-8dcb-f068699eef5b",
+     "correct": true,
+     "answer": "Email"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-866099623",
+  "source": {
+   "name": "Security4",
+   "showName": false,
+   "instructions": "What is a downside of increased security protocols?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "a80539a7-9a03-5745-2b8a-780d06ca24e5",
+     "correct": true,
+     "answer": "More difficult for users to gain access to their data."
+    },
+    {
+     "_id": "7c7f0236-280e-2f56-8fad-bd366429d93c",
+     "correct": false,
+     "answer": "Users keep forgetting passwords."
+    },
+    {
+     "_id": "822b75ac-ee3f-bcd5-1378-f9fe479264ab",
+     "correct": false,
+     "answer": "Does little to stop thieves from gaining access."
+    },
+    {
+     "_id": "8468c87f-af54-a423-83d1-115ff31b51c5",
+     "correct": false,
+     "answer": "Saves money and is easier to maintain."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-212452576",
+  "source": {
+   "name": "Security5",
+   "showName": false,
+   "instructions": "Data is encrypted before it is sent: ",
+   "points": "3",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "395efb11-e7d1-de8b-a1e9-297950c37461",
+     "correct": false,
+     "answer": "To prevent shoulder surfing, looking over your shoulder as you type passwords."
+    },
+    {
+     "_id": "d872ca12-b630-a871-bc8d-caaaa62d8710",
+     "correct": true,
+     "answer": "To prevent eavesdropping of data as it is in transit. "
+    },
+    {
+     "_id": "e86a9deb-5046-c59f-cce6-103a4ee404b8",
+     "correct": true,
+     "answer": "To ensure a web page is authentic with a signed SSL certificate."
+    },
+    {
+     "_id": "47e7656a-af7c-3d3a-d597-1cf52d58d455",
+     "correct": true,
+     "answer": "So only the intended recipient of the data can read it."
+    }
+   ]
+  }
+ }
+]

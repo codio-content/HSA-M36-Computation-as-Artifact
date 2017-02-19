@@ -1,0 +1,57 @@
+{
+ "sections": [
+  {
+   "id": "c9e8fe17-037f-bc4c-2f6b-19a4c5d9075b",
+   "title": "Computation as Artifact",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Computation-as-Artifact-c9e8.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c2336871-09eb-e4a1-be41-acf8d99221f1",
+   "title": "Computational Artifacts",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Computational-Artifacts-c233.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ae757caf-e411-75d2-aa76-8ffe04b9944a",
+   "title": "App Design",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/App-Design-ae75.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6b866925-5ad5-6d33-6f9f-64858d80232a",
+   "title": "Final App Project",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Final-App-Project-6b86.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
